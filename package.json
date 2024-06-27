@@ -1,0 +1,13 @@
+{
+  "name": "eth-oracle-node-example",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "45930",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "o1js": "^1.4.0"
+  }
+}

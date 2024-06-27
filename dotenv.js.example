@@ -1,0 +1,5 @@
+module.exports = {
+    DWELLIR_API_KEY: 'YOUR API KEY',
+    DWELLIR_API_HOST: 'https://api-eth-mainnet-archive.dwellir.com/',
+    DWELLIR_O1JS_PRIVATE_KEY: 'EKFApmxUtgPLNkjLWJ3HynyRYmqMkDwhuANRPMcfWsaazBteoGnS' // !! DO NOT USE IN PRODUCTION !! This is safe to expose publicly as it is just a random public key
+}
